@@ -23,7 +23,7 @@
     <ProjectGuid>{91385FF4-7B03-41BF-80C3-46B5CC01C252}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>MSMPI</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.10586.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
